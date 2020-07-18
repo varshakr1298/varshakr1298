@@ -10,3 +10,6 @@
 
 ![GitHub Intro](https://user-images.githubusercontent.com/43178958/87244017-78bc6480-c458-11ea-96d8-97dcf3669e70.gif)
 
+
+![Varsha's github stats](https://github-readme-stats.vercel.app/api?username=varshakr1298&icon_color=5c2a9d&title_color=5c2a9d&show_icons=true)
+
